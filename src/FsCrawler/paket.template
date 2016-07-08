@@ -1,0 +1,25 @@
+type project
+title
+    FsCrawler
+owners
+    Daniel Bradley
+authors 
+    Daniel Bradley
+projectUrl
+    http://github.com/danielrbradley/FsCrawler
+iconUrl
+    https://raw.githubusercontent.com/danielrbradley/FsCrawler/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/danielrbradley/FsCrawler/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    F# Crawler HTTP Agents
+summary
+    F# Web Crawler
+description
+    F# web crawler library
+
+
