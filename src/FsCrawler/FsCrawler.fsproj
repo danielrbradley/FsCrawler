@@ -63,6 +63,7 @@
     <Compile Include="CustomAssemblyInfo.fs" />
     <Compile Include="FsCrawler.fsi" />
     <Compile Include="FsCrawler.fs" />
+    <None Include="FsCrawler.fsx" />
     <None Include="Script.fsx" />
     <None Include="paket.references" />
     <None Include="paket.template" />
