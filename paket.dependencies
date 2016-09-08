@@ -1,6 +1,8 @@
 source https://nuget.org/api/v2
+redirects: on
 
 nuget FSharp.Core redirects: force
+nuget Hopac
 
 group Build
   source https://nuget.org/api/v2
